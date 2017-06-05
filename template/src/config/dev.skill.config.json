@@ -1,0 +1,13 @@
+{
+    "skillNamespace": "YOUR_NAMESPACE",
+    "skillAppID": "REPLACE WITH dev appID",
+    "dynamoDBTableName": "YOUR_NAMESPACE-users-dev",
+    "s3": {
+        "bucketName": "YOUR_NAMESPACE-dev",
+        "transKey": "translations.json"
+    },
+    "region": "YOUR_REGION",
+    "roleArn": "YOUR_ROLE_ARN",
+    "awsProfile": "YOUR_NAMESPACE-profile-dev",
+    "trackingToken": "REPLACE WITH ANALYTICS TRACKING TOKEN"
+}

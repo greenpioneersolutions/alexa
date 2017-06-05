@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "airportInfoIntent",
+      "slots": [
+        {
+          "name": "AIRPORTCODE",
+          "type": "FAACODES"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+madlibIntent	new madlib
+madlibIntent	start madlib
+madlibIntent	create madlib
+madlibIntent	begin madlib
+madlibIntent	build madlib
+madlibIntent	new a madlib
+madlibIntent	start a madlib
+madlibIntent	create a madlib
+madlibIntent	begin a madlib
+madlibIntent	build a madlib
+madlibIntent	new the madlib
+madlibIntent	start the madlib
+madlibIntent	create the madlib
+madlibIntent	begin the madlib
+madlibIntent	build the madlib
+madlibIntent	{STEPVALUE}
